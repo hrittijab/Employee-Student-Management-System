@@ -47,7 +47,7 @@ public class Employee extends Person{
         this.hoursWorked=189;
         this.pensionPlan =(double) 266.67;
         this.eInsurance = (double) 74.17;
-}
+   }
     
      
 }
